@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intesa_SanFabbro_22F", "Intesa_SanFabbro_22F\Intesa_SanFabbro_22F.csproj", "{595B4D8A-EA26-440D-8822-C188A327DE09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595B4D8A-EA26-440D-8822-C188A327DE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595B4D8A-EA26-440D-8822-C188A327DE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595B4D8A-EA26-440D-8822-C188A327DE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595B4D8A-EA26-440D-8822-C188A327DE09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E300C3C6-441D-451D-883D-3246235DF951}
+	EndGlobalSection
+EndGlobal
